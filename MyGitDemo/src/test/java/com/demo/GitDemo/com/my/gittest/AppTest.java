@@ -17,5 +17,6 @@ public class AppTest
         System.out.println( "Hello Git msg 3!!!!" );
         System.out.println( "Hello Git msg 4!!!!" );
         System.out.println( "Hello Git msg 6!!!!" );
+        System.out.println( "Hello Git msg 7!!!!" );
     }
 }
