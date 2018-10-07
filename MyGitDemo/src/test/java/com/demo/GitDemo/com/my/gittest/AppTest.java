@@ -18,5 +18,6 @@ public class AppTest
         System.out.println( "Hello Git msg 4!!!!" );
         System.out.println( "Hello Git msg 6!!!!" );
         System.out.println( "Hello Git msg 7!!!!" );
+        System.out.println( "Hello Git msg 8 code from git branch - branch1!!!!" );
     }
 }
